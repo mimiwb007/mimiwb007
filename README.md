@@ -15,9 +15,9 @@ Skills: Machine Learning, NLP, LLM, Python
 
 
 
-### Follow Me on - 
+### Know More About My Work From Here - 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='Notion' height='40'>](https://violet-book-a28.notion.site/ML-Notes-1123c6068e4d80648e5ac2b1c9310974)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nibedita-dutta-5119a28b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.analyticsvidhya.com/blog/author/mimi6/) 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nibedita-dutta-5119a28b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.analyticsvidhya.com/blog/author/mimi6/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='Notion' height='40'>](https://violet-book-a28.notion.site/ML-Notes-1123c6068e4d80648e5ac2b1c9310974) 
 
 ## Read My Latest Blogs - 
 
