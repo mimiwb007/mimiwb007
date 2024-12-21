@@ -1,6 +1,8 @@
 ## Hi there 👋, I am Nibedita
 
-👩🏻‍💻 Currently Working as a Senior Data Scientist
+👩🏻‍💻 Currently Working as a Senior Data Scientist @ SAP Labs, India
+
+💻 Have worked previously at GE, AbsolutData Labs & Aditya Birla Group
 
 🚀 Have an overall experience of more than 10 years across different industries with focus on leading and delivering data driven solutions to businesses with the aid of AI, ML and cutting edge Gen AI based solutions
 
