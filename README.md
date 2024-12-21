@@ -22,13 +22,36 @@ Skills: Machine Learning, NLP, LLM, Python
 ### Read My Latest Blogs - 
 
 ####  Small Language Models
-
 [Finetuning Small Language Model](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model)
 
 [Performance Evaluation of Small Language Models: Insights and Comparisons](https://www.analyticsvidhya.com/blog/2024/11/performance-evaluation-of-small-language-models/)
 
 ####  Agentic AI
 [OpenAI Swarm: A Hands-On Guide to Multi-Agent Systems](https://www.analyticsvidhya.com/blog/2024/12/managing-multi-agent-systems-with-openai-swarm/)
+
+[Using AI Agents to Create Customized Customer Experiences](https://www.analyticsvidhya.com/blog/2024/11/customized-customer-experiences/)
+
+[How AI Agents Using CrewAI Collaborate for Effective Edtech Solutions?](https://www.analyticsvidhya.com/blog/2024/10/ai-agents-with-crewai/)
+
+####  Retrieval Augmented Generation Based Techniques
+[Agentic RAG for Analyzing Customer Issues](https://www.analyticsvidhya.com/blog/2024/11/agentic-rag-for-analyzing-customer-issues/)
+
+[Exploring GraphRAG from Theory to Implementation](https://www.analyticsvidhya.com/blog/2024/11/graphrag/)
+
+### Advanced NLP 
+[Unveiling the Inner Workings: A Deep Dive into BERT’s Attention Mechanism](https://www.analyticsvidhya.com/blog/2023/12/berts-attention-mechanism/)
+
+[Unlocking LangChain & Flan-T5 XXL | A Guide to Efficient Document Querying](https://www.analyticsvidhya.com/blog/2023/09/unlocking-langchain-flan-t5-xxl-a-guide-to-efficient-document-querying/)
+
+[Word2Vec For Word Embeddings -A Beginner’s Guide](https://www.analyticsvidhya.com/blog/2021/07/word2vec-for-word-embeddings-a-beginners-guide/)
+
+[Bag-of-words vs TFIDF vectorization –A Hands-on Tutorial](https://www.analyticsvidhya.com/blog/2021/07/bag-of-words-vs-tfidf-vectorization-a-hands-on-tutorial/)
+
+[Topic Modelling With LDA -A Hands-on Introduction](https://www.analyticsvidhya.com/blog/2021/07/topic-modelling-with-lda-a-hands-on-introduction/)
+
+
+
+
 
 
 
