@@ -21,4 +21,4 @@ Skills: Machine Learning, NLP, LLM, Python
 
 ### Read My Latest Blogs - 
 
-[Finetuning Small Language Model](https://www.analyticsvidhya.com/blog/author/mimi6/](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model)
+[Finetuning Small Language Model](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model)
