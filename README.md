@@ -1,9 +1,10 @@
 ## Hi there 👋, I am Nibedita
-### Senior Data Scientist
 
-Currently Working as a Senior Data Scientist
-Have an overall experience of ~10 years across different industries with focus on leading and delivering data driven solutions to businesses with the aid of AI, ML and cutting edge Gen AI based solutions
-Masters from Indian Institute of Technology, Kharagpur (Amongst Top 5 in Batch)
+👩🏻‍💻 Currently Working as a ### Senior Data Scientist
+
+🚀 Have an overall experience of more than 10 years across different industries with focus on leading and delivering data driven solutions to businesses with the aid of AI, ML and cutting edge Gen AI based solutions
+
+🎓 Masters from Indian Institute of Technology, Kharagpur (Amongst Top 5 in Batch)
 
 ## Highlights
 
