@@ -7,10 +7,9 @@ Masters from Indian Institute of Technology, Kharagpur (Amongst Top 5 in Batch)
 
 ## Highlights
 
-
-###  ![image](https://github.com/user-attachments/assets/b3890c22-4629-4322-bbe9-8b9a600fc72c) GE Certified Analytics Engineer
-
 ### ✍️ Authored More than 20 Blogs
+### GE Certified Analytics Engineer 
+### Winner of Techgig Geek Goddess 2020 (Data Science)
 
 
 ### Know More About My Work From Here - 
