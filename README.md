@@ -1,5 +1,5 @@
-### Hi there 👋, I am Nibedita
-#### Senior Data Scientist
+## Hi there 👋, I am Nibedita
+### Senior Data Scientist
 
 Overall experience of ~10 years across different industries with focus on leading and delivering data driven solutions to businesses with the aid of AI, ML and cutting edge Gen AI based solutions. 
 
@@ -19,21 +19,21 @@ Skills: Machine Learning, NLP, LLM, Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mimiwb007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nibedita-dutta-5119a28b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.analyticsvidhya.com/blog/author/mimi6/)  
 
-### Read My Latest Blogs - 
+## Read My Latest Blogs - 
 
-####  Small Language Models
+###  Small Language Models
 [Finetuning Small Language Model](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model)
 
 [Performance Evaluation of Small Language Models: Insights and Comparisons](https://www.analyticsvidhya.com/blog/2024/11/performance-evaluation-of-small-language-models/)
 
-####  Agentic AI
+###  Agentic AI
 [OpenAI Swarm: A Hands-On Guide to Multi-Agent Systems](https://www.analyticsvidhya.com/blog/2024/12/managing-multi-agent-systems-with-openai-swarm/)
 
 [Using AI Agents to Create Customized Customer Experiences](https://www.analyticsvidhya.com/blog/2024/11/customized-customer-experiences/)
 
 [How AI Agents Using CrewAI Collaborate for Effective Edtech Solutions?](https://www.analyticsvidhya.com/blog/2024/10/ai-agents-with-crewai/)
 
-####  Retrieval Augmented Generation Based Techniques
+###  Retrieval Augmented Generation Based Techniques
 [Agentic RAG for Analyzing Customer Issues](https://www.analyticsvidhya.com/blog/2024/11/agentic-rag-for-analyzing-customer-issues/)
 
 [Exploring GraphRAG from Theory to Implementation](https://www.analyticsvidhya.com/blog/2024/11/graphrag/)
