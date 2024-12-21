@@ -15,12 +15,10 @@ Skills: Machine Learning, NLP, LLM, Python
 
 
 
-### FOLLOW ME HERE 
+### Follow Me on - 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mimiwb007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nibedita-dutta-5119a28b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.analyticsvidhya.com/blog/author/mimi6/)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mimiwb007)  
+### Read My Latest Blogs - 
 
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]([https://www.analyticsvidhya.com/blog/author/mimi6/](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model/))  
