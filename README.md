@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Nibedita
 
-👩🏻‍💻 Currently Working as a ### Senior Data Scientist
+👩🏻‍💻 Currently Working as a Senior Data Scientist
 
 🚀 Have an overall experience of more than 10 years across different industries with focus on leading and delivering data driven solutions to businesses with the aid of AI, ML and cutting edge Gen AI based solutions
 
@@ -13,7 +13,7 @@
 ### Winner of Techgig Geek Goddess 2020 (Data Science)
 
 
-### Know More About My Work From Here - 
+## Know More About My Work From Here - 
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nibedita-dutta-5119a28b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.analyticsvidhya.com/blog/author/mimi6/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='Notion' height='40'>](https://violet-book-a28.notion.site/ML-Notes-1123c6068e4d80648e5ac2b1c9310974) 
 
