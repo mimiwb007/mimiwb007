@@ -8,9 +8,9 @@
 
 ## Highlights
 
-### ✍️ Authored More than 20 Blogs
-### 🏅 GE Certified Analytics Engineer 
-### 🏆 Winner of Techgig Geek Goddess 2020 (Data Science)
+✍️ Authored More than 20 Blogs
+🏅 GE Certified Analytics Engineer 
+🏆 Winner of Techgig Geek Goddess 2020 (Data Science)
 
 
 ## Know More About My Work From Here - 
