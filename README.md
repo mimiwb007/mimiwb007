@@ -21,4 +21,14 @@ Skills: Machine Learning, NLP, LLM, Python
 
 ### Read My Latest Blogs - 
 
+####  Small Language Models
+
 [Finetuning Small Language Model](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model)
+[Performance Evaluation of Small Language Models: Insights and Comparisons](https://www.analyticsvidhya.com/blog/2024/11/performance-evaluation-of-small-language-models/)
+
+####  Agentic AI
+[OpenAI Swarm: A Hands-On Guide to Multi-Agent Systems](https://www.analyticsvidhya.com/blog/2024/12/managing-multi-agent-systems-with-openai-swarm/
+
+
+
+
