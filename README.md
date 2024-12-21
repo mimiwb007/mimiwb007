@@ -1,18 +1,16 @@
 ## Hi there 👋, I am Nibedita
 ### Senior Data Scientist
 
-Overall experience of ~10 years across different industries with focus on leading and delivering data driven solutions to businesses with the aid of AI, ML and cutting edge Gen AI based solutions. 
-
-More than ~7 years of experience in managing team of senior analysts/data scientists/senior consultants/interns.
-
+Currently Working as a Senior Data Scientist
+Have an overall experience of ~10 years across different industries with focus on leading and delivering data driven solutions to businesses with the aid of AI, ML and cutting edge Gen AI based solutions
 Masters from Indian Institute of Technology, Kharagpur (Amongst Top 5 in Batch)
 
-Skills: Machine Learning, NLP, LLM, Python
+## Highlights
 
-- 🔭 I’m currently working on LLMs and advanced NLP Technieus
-- 📫 How to reach me: https://www.linkedin.com/in/nibedita-dutta-5119a28b/ 
-- 😄 Pronouns: She/Her
 
+###  ![image](https://github.com/user-attachments/assets/b3890c22-4629-4322-bbe9-8b9a600fc72c) GE Certified Analytics Engineer
+
+### ✍️ Authored More than 20 Blogs
 
 
 ### Know More About My Work From Here - 
