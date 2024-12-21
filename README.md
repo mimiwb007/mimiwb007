@@ -9,11 +9,13 @@ Masters from Indian Institute of Technology, Kharagpur (Amongst Top 5 in Batch)
 
 Skills: Machine Learning, NLP, LLM, Python
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning LLMs, Advanced NLP Techniques 
+- 🔭 I’m currently working on LLMs and advanced NLP Technieus
 - 📫 How to reach me: https://www.linkedin.com/in/nibedita-dutta-5119a28b/ 
-- 😄 Pronouns: She/Her 
+- 😄 Pronouns: She/Her
 
+
+
+### FOLLOW ME HERE 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mimiwb007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nibedita-dutta-5119a28b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.analyticsvidhya.com/blog/author/mimi6/)  
 
