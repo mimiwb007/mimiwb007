@@ -21,4 +21,4 @@ Skills: Machine Learning, NLP, LLM, Python
 
 ### Read My Latest Blogs - 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]([https://www.analyticsvidhya.com/blog/author/mimi6/](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model/))  
+[Finetuning Small Language Model](https://www.analyticsvidhya.com/blog/author/mimi6/](https://www.analyticsvidhya.com/blog/2024/12/news-classification-by-fine-tuning-small-language-model)
